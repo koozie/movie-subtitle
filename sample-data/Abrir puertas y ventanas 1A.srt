@@ -1,0 +1,831 @@
+1
+00:02:38,120 --> 00:02:38,120
+** scene-change **
+
+2
+00:02:43,640 --> 00:02:45,800
+Pedro kommt. Ich will ihn nicht sehen.
+Pedro arrive. Je ne veux pas le voir.
+
+3
+00:02:46,160 --> 00:02:48,800
+- Pedro? - Ja, schnell, er kommt.
+- Pedro? - Oui, il arrive, dépêche-toi.
+
+4
+00:02:51,080 --> 00:02:52,280
+Hallo Pedro.
+Salut, Pedro.
+
+5
+00:02:52,440 --> 00:02:55,000
+- Hallo Sofia, gehts dir gut? - Ja, danke.
+- Salut, Sofia, comment ça va? - Bien.
+
+6
+00:02:55,160 --> 00:02:57,160
+Ich wollte zu Marina.
+Je cherche Marina...
+
+7
+00:02:59,200 --> 00:03:00,800
+Weiss sie, dass du kommst?
+Elle savait que tu venais?
+
+8
+00:03:01,040 --> 00:03:02,640
+Ich sagte, ich komme vielleicht.
+Je lui ai dit que je passerais.
+
+9
+00:03:02,800 --> 00:03:04,520
+Sie ist eben weggegangen.
+Elle vient de sortir.
+
+10
+00:03:06,040 --> 00:03:07,680
+Seltsam.
+C'est bizarre.
+
+11
+00:03:09,240 --> 00:03:11,080
+Weisst du, wann sie kommt?
+Tu sais quand elle rentre?
+
+12
+00:03:12,320 --> 00:03:14,120
+Nein, keine Ahnung.
+Non, aucune idée.
+
+13
+00:03:14,280 --> 00:03:16,000
+Weisst du, wo sie hin ist?
+Tu sais où elle est allée?
+
+14
+00:03:16,640 --> 00:03:18,240
+Zum Anwalt.
+Chez l'avocat.
+
+15
+00:03:19,680 --> 00:03:22,080
+Ich warte hier auf sie.
+Bon, je peux l'attendre ici?
+
+16
+00:03:23,080 --> 00:03:24,600
+Nein...
+Non...
+
+17
+00:03:25,440 --> 00:03:27,600
+- Nett wie immer. - Na ja....
+- Toujours si accueillante... - Ben...
+
+18
+00:03:27,760 --> 00:03:31,480
+Violeta und ich enthaaren uns grad die Beine.
+Violeta et moi sommes en pleine séance d'épilation.
+
+19
+00:03:31,640 --> 00:03:33,200
+Na gut.
+Bon...
+
+20
+00:03:33,640 --> 00:03:36,520
+- Sag ihr, ich sei da gewesen. - Mach ich.
+- Tu lui diras que je suis passé? - Oui.
+
+21
+00:03:36,680 --> 00:03:38,360
+Vergiss es nicht.
+Oublie pas.
+
+22
+00:03:38,520 --> 00:03:41,200
+- Nein. - Letztes Mal hast du es vergessen.
+- Non. - T'as oublié la dernière fois.
+
+23
+00:03:41,680 --> 00:03:45,320
+- Tschüss. - Tschüss.
+- Allez, salut. - À la prochaine.
+
+24
+00:03:49,760 --> 00:03:51,720
+Der ist vielleicht lästig.
+Il est lourd.
+
+25
+00:03:54,120 --> 00:03:56,120
+- Ist er weg? - Ja.
+- Il est parti? - Oui.
+
+26
+00:03:58,040 --> 00:04:00,240
+Warum gehst du bloss mit ihm?
+Mais pourquoi tu sors avec lui?
+
+27
+00:04:00,400 --> 00:04:01,920
+Ich gehe nicht mehr mit ihm.
+Je ne sors plus avec lui.
+
+28
+00:04:02,120 --> 00:04:03,680
+Was war denn?
+Qu'est-ce qui s'est passé?
+
+29
+00:04:03,840 --> 00:04:05,920
+Nichts. Mach Platz.
+Rien. Bouge un peu.
+
+30
+00:04:06,120 --> 00:04:09,000
+- Was ist passiert? - Mach Platz!
+- Qu'est-ce qui s'est passé? - Pousse-toi!
+
+31
+00:04:09,160 --> 00:04:10,680
+Umso besser.
+Tant mieux.
+
+32
+00:04:11,640 --> 00:04:14,280
+So ein Schwachkopf.
+Il a une tête de débile.
+
+33
+00:04:14,440 --> 00:04:14,440
+** scene-change **
+
+34
+00:04:14,760 --> 00:04:16,440
+Warum?
+À cause de quoi?
+
+35
+00:04:17,080 --> 00:04:18,840
+Er gefällt mir nicht mehr.
+Il me plaît plus.
+
+36
+00:04:19,040 --> 00:04:20,760
+Zum Glück.
+C'est une bonne chose.
+
+37
+00:04:22,520 --> 00:04:24,120
+Er hat nur eine Augenbraue.
+Il a les sourcils qui se rejoignent.
+
+38
+00:04:30,720 --> 00:04:32,680
+Er hockt ständig in der Bibliothek.
+Un rat de bibliothèque.
+
+39
+00:04:33,040 --> 00:04:34,760
+Schon gut!
+Arrête!
+
+40
+00:04:34,920 --> 00:04:36,840
+Steh mal auf, Violeta.
+Lève-toi un peu, Violeta.
+
+41
+00:04:38,440 --> 00:04:40,600
+- Willst du essen? - Hab ich schon.
+- Tu vas manger? - J'ai déjà mangé.
+
+42
+00:04:40,760 --> 00:04:44,040
+- Die Fernbedienung? - Du musst Zahlungen machen.
+- La télécommande? - Il faut payer les factures.
+
+43
+00:04:44,560 --> 00:04:46,120
+Die mache ich später.
+J'irai plus tard.
+
+44
+00:04:46,280 --> 00:04:47,800
+Wann später?
+Quand?
+
+45
+00:04:48,320 --> 00:04:50,040
+- Ich weiss nicht. - Wann?
+- Je ne sais pas. - Quand?
+
+46
+00:04:50,440 --> 00:04:52,560
+Weiss nicht, jetzt ist es mir zu heiss.
+Je verrai. Il fait trop chaud.
+
+47
+00:05:04,640 --> 00:05:06,200
+Die Antenne...
+L'antenne...
+
+48
+00:05:09,440 --> 00:05:11,120
+Da. Nein...
+Voilà. Non...
+
+49
+00:05:12,240 --> 00:05:14,520
+Da, so ists gut.
+Là, comme ça, c'est bien.
+
+50
+00:05:14,680 --> 00:05:16,680
+- So. - So?
+- Là. - Là?
+
+51
+00:05:19,520 --> 00:05:21,160
+Sicher fängt gleich ein Film an.
+Il y a un film qui devrait commencer.
+
+52
+00:05:21,320 --> 00:05:22,920
+Mach mir Platz.
+Pousse-toi.
+
+53
+00:05:23,120 --> 00:05:24,760
+Setz dich dorthin.
+Mets-toi là-bas.
+
+54
+00:06:03,280 --> 00:06:05,840
+Macht die Türe zu!
+Fermez la porte!
+
+55
+00:06:19,800 --> 00:06:19,800
+** scene-change **
+
+56
+00:06:31,720 --> 00:06:33,640
+Bist du erschrocken?
+Tu as eu peur?
+
+57
+00:06:35,320 --> 00:06:37,080
+Und, wie ist es?
+C'est comment?
+
+58
+00:06:37,800 --> 00:06:39,360
+Seltsam.
+C'est bizarre.
+
+59
+00:06:40,160 --> 00:06:42,720
+Ich habs noch nie probiert.
+Je n'ai jamais pensé à l'essayer.
+
+60
+00:06:46,840 --> 00:06:48,880
+Hast du den Garagen-Schlüssel gesehen?
+Tu as vu les clés du garage?
+
+61
+00:06:49,480 --> 00:06:51,040
+Nein.
+Non.
+
+62
+00:06:54,000 --> 00:06:56,720
+Ich weiss, dass ich ihn da hingelegt habe.
+J'étais sûre de les avoir laissées là.
+
+63
+00:06:58,240 --> 00:07:00,480
+Keine Ahnung.
+Je n'en sais rien.
+
+64
+00:07:18,360 --> 00:07:20,200
+Ich habe ihn nicht!
+Je ne les ai pas!
+
+65
+00:07:27,160 --> 00:07:29,120
+Blöde Kuh!
+Idiote!
+
+66
+00:07:31,200 --> 00:07:31,200
+** scene-change **
+
+67
+00:07:31,360 --> 00:07:33,480
+Ich rufe dich schon zum 5. Mal an...
+Écoute, c'est la cinquième fois...
+
+68
+00:07:33,640 --> 00:07:36,200
+und du nimmst nicht ab.
+que j'appelle et que tu ne réponds pas...
+
+69
+00:07:36,360 --> 00:07:38,520
+Ich rufe an, um dir zu sagen,
+Je voulais te parler de ce que...
+
+70
+00:07:38,720 --> 00:07:40,880
+was du schon mitgekriegt hast...
+tu as entendu l'autre jour...
+
+71
+00:07:41,440 --> 00:07:43,400
+Nett ist es für dich nicht,
+Ça me fait de la peine...
+
+72
+00:07:43,600 --> 00:07:45,560
+es so zu erfahren, aber...
+de te l'apprendre comme ça mais...
+
+73
+00:07:46,240 --> 00:07:49,280
+ich will nicht mehr mit dir gehen.
+Je ne veux plus sortir avec toi.
+
+74
+00:07:49,440 --> 00:07:53,280
+Ruf mich an, wenn du willst.
+Si tu veux, appelle-moi... C'est comme tu veux.
+
+75
+00:07:53,440 --> 00:07:54,800
+Hallo Francisco!
+Salut, Francisco!
+
+76
+00:07:55,000 --> 00:07:56,440
+Ich muss los. Tschüss.
+Je dois y aller. Salut.
+
+77
+00:07:56,600 --> 00:07:58,320
+- Gehst du in die Stadt? - Ja.
+- Tu vas en ville? - Oui...
+
+78
+00:07:58,480 --> 00:08:00,240
+- Kann ich mit bis zum Bus?
+- Tu me déposes à l'arrêt de bus?
+
+79
+00:08:00,440 --> 00:08:02,160
+- Ja, aber beeil dich, ich bin spät dran.
+- Dépêche-toi alors, je suis en retard.
+
+80
+00:08:02,320 --> 00:08:04,040
+Gut, gehen wir.
+D'accord, allons-y.
+
+81
+00:08:06,000 --> 00:08:08,640
+- Was schaust du? - Nichts.
+- Qu'est-ce que tu regardes? - Rien.
+
+82
+00:08:32,120 --> 00:08:34,360
+Wir brauchen auch Joghurt.
+Il nous faut des yaourts aussi.
+
+83
+00:08:34,520 --> 00:08:36,560
+Ich schreibe es auf.
+Je les ajoute à la liste.
+
+84
+00:08:38,560 --> 00:08:40,800
+Schaust du dir die Serie an?
+Tu viens regarder le feuilleton?
+
+85
+00:08:41,000 --> 00:08:43,040
+Ich weiss nicht.
+Je ne sais pas...
+
+86
+00:08:58,080 --> 00:08:58,080
+** scene-change **
+
+87
+00:09:32,360 --> 00:09:35,560
+<i>Hallo Mädels. Ich komme nicht zum Essen.
+Salut, les filles. Je ne rentre pas pour le dîner.</i>
+
+88
+00:09:35,800 --> 00:09:38,800
+<i>Wartet nicht auf mich.
+Ne m'attendez pas.</i>
+
+89
+00:10:53,080 --> 00:10:55,120
+Ich habe keine Kurven, keine Taille.
+Je suis carrée, j'ai pas de taille.
+
+90
+00:10:56,480 --> 00:10:58,600
+Hör auf, du übertreibst.
+Arrête, tu exagères.
+
+91
+00:10:58,760 --> 00:11:01,000
+Wenigstens hast du einen Busen.
+Au moins, tu as des seins.
+
+92
+00:11:01,160 --> 00:11:04,280
+Meiner ist deprimierend: da ist nichts.
+Les miens sont déprimants, complètement plats.
+
+93
+00:11:04,440 --> 00:11:06,000
+Im Ernst.
+C'est vrai.
+
+94
+00:11:08,560 --> 00:11:10,280
+Probier das da.
+Essaye ça.
+
+95
+00:11:19,920 --> 00:11:22,000
+Hilf mir mit dem Reissverschluss.
+Aide-moi à la fermer.
+
+96
+00:11:22,160 --> 00:11:24,000
+Steh auf.
+Lève-toi.
+
+97
+00:11:30,840 --> 00:11:32,480
+Da.
+Voilà.
+
+98
+00:11:34,720 --> 00:11:36,880
+Warum bin ich bloss so massig?
+Pourquoi je suis aussi carrée ?
+
+99
+00:11:37,080 --> 00:11:40,160
+- Es ist sowieso hässlich. - Hilf mir beim Ausziehen.
+- Elle est horrible, de toute façon. - Enlève-la.
+
+100
+00:11:42,120 --> 00:11:44,600
+- Wo war es? - Auf dem Stuhl.
+- Elle était où? - Sur la chaise.
+
+101
+00:11:46,160 --> 00:11:48,680
+Räum alles weg, damit sie nichts merkt.
+Rangeons tout, sinon elle s'en rendra compte.
+
+102
+00:11:48,840 --> 00:11:50,600
+Woher hat die so viele Kleider?
+D'où sort-elle tous ces vêtements?
+
+103
+00:11:50,760 --> 00:11:53,120
+Von der Kleiderbörse an der Uni.
+Elle fait du troc à la fac.
+
+104
+00:12:51,200 --> 00:12:53,240
+- Hallo. - Hallo.
+- Salut. - Salut.
+
+105
+00:12:53,400 --> 00:12:55,720
+Ein Anruf. Deine Freundin, glaube ich.
+Quelqu'un a appelé. Ta copine, je crois.
+
+106
+00:12:55,880 --> 00:12:58,000
+Meine Freundin? Wie seltsam.
+Ma copine? Bizarre.
+
+107
+00:12:58,160 --> 00:13:01,560
+Komm mit, ich finde das Schnurlostelefon nicht.
+Viens prendre le fixe, je ne trouve plus le sans-fil.
+
+108
+00:13:01,720 --> 00:13:03,640
+Gut, ich komme.
+D'accord, j'arrive.
+
+109
+00:13:07,200 --> 00:13:08,560
+Ja.
+Oui.
+
+110
+00:13:08,720 --> 00:13:10,800
+Ich habe wohl keine Batterie mehr.
+Ma batterie est à plat.
+
+111
+00:13:13,640 --> 00:13:16,560
+Ja. Was willst du?
+Oui. Qu'est-ce que tu veux?
+
+112
+00:13:19,280 --> 00:13:22,320
+Und das, gehört das hierhin?
+Et ça, ça va là.
+
+113
+00:13:23,840 --> 00:13:26,360
+Nein, ich habe Einiges zu erledigen.
+Non, j'ai des trucs à faire.
+
+114
+00:13:26,760 --> 00:13:28,920
+- Dinge eben, Arbeit... - Er ist hart.
+- Des trucs, du boulot... - Il est rude.
+
+115
+00:13:29,120 --> 00:13:32,720
+Reden wir später. Ruf mich auf dem Handy an.
+On parlera plus tard. Appelle-moi sur mon portable.
+
+116
+00:13:32,880 --> 00:13:34,880
+Reden wir später darüber.
+Parlons plus tard.
+
+117
+00:13:35,120 --> 00:13:37,080
+Rufst du mich auf dem Handy an?
+Tu m'appelles sur mon portable?
+
+118
+00:13:38,680 --> 00:13:40,240
+Hallo.
+Salut.
+
+119
+00:13:42,520 --> 00:13:44,040
+Habt ihr alles geleimt?
+Vous avez tout collé?
+
+120
+00:13:44,200 --> 00:13:45,720
+Ruf in 5 Minuten aufs Handy an.
+Appelle dans 5 minutes.
+
+121
+00:13:45,920 --> 00:13:47,480
+Jetzt kann ich nicht reden.
+Je ne peux pas parler, là.
+
+122
+00:13:47,800 --> 00:13:50,000
+Gut, bis nachher. Tschüss.
+OK, à plus tard. Salut.
+
+123
+00:13:50,160 --> 00:13:51,160
+Danke.
+Merci.
+
+124
+00:13:51,320 --> 00:13:53,120
+- Gehst du in die Stadt? - Nein.
+- Tu vas en ville? - Non.
+
+125
+00:13:53,280 --> 00:13:55,080
+Gut, danke.
+Bon, merci.
+
+126
+00:13:57,320 --> 00:13:59,560
+Dann muss ich den Bus nehmen.
+Je vais devoir prendre le bus.
+
+127
+00:14:01,280 --> 00:14:02,920
+Was ist das?
+Qu'est-ce que c'est?
+
+128
+00:14:03,120 --> 00:14:04,520
+Warum nimmst du es raus?
+Pourquoi tu l'enlèves?
+
+129
+00:14:04,680 --> 00:14:07,360
+Wir arbeiten mit geometrischen Formen.
+On fait un travail sur les formes géométriques.
+
+130
+00:14:07,520 --> 00:14:10,480
+Das nächste Mal machst du es selbst.
+Tu le feras toi-même, la prochaine fois.
+
+131
+00:14:12,360 --> 00:14:14,320
+- Darf ich? - Ich bin spät dran.
+- Tu permets? - Je suis en retard.
+
+132
+00:14:14,480 --> 00:14:16,800
+- Nimm ein Taxi. - Ich habe kein Geld.
+- Prends un taxi. - J'ai pas d'argent.
+
+133
+00:14:17,000 --> 00:14:18,840
+Warte.
+Attends.
+
+134
+00:14:19,280 --> 00:14:22,640
+- Es klebt nicht recht. - Wenn du es verbessern willst...
+- C'est tout mal collé. - Si tu veux l'arranger...
+
+135
+00:14:22,800 --> 00:14:24,840
+- Also dann, tschüss. - Tschüss.
+- Bon, salut. - Salut.
+
+136
+00:14:28,680 --> 00:14:30,520
+Sie werden sie durchfallen lassen.
+Elle va se faire recaler.
+
+137
+00:14:32,320 --> 00:14:32,320
+** scene-change **
+
+138
+00:14:46,400 --> 00:14:48,360
+Ist das die Freundin?
+C'est elle, sa copine?
+
+139
+00:14:48,520 --> 00:14:51,000
+- Hallo Mädels. - Hallo.
+- Salut, les filles. - Salut.
+
+140
+00:14:51,640 --> 00:14:54,280
+Man merkt, dass sie vom Land kommt.
+On voit qu'elle vient de la campagne.
+
+141
+00:14:55,240 --> 00:14:57,200
+Ein echtes Landei.
+Une vraie paysanne.
+
+142
+00:14:59,840 --> 00:15:01,520
+Halt still.
+Bouge pas.
+
+143
+00:15:29,200 --> 00:15:31,720
+Ich will nicht, dass du meine Kleider anziehst.
+Je ne veux pas que tu mettes mes vêtements.
+
+144
+00:15:32,760 --> 00:15:34,320
+Redest du mit mir?
+C'est à moi que tu parles?
+
+145
+00:15:34,480 --> 00:15:36,320
+Nein, mit deiner Grossmutter.
+Non, à ta grand-mère.
+
+146
+00:15:37,600 --> 00:15:40,120
+Wo ich ausnahmsweise mal was von dir trage.
+C'est la 1 ère fois que je mets un de tes trucs.
+
+147
+00:15:42,400 --> 00:15:45,800
+Egal. Ich will es nicht. Sonst weiten sie sich aus.
+Ça m'est égal. Ne le fais plus. Ça les agrandit.
+
+148
+00:15:47,000 --> 00:15:49,880
+- Es ist Lycra. - Eben, das weitet sich aus.
+- C'est du Lycra. - Justement, ça s'étire.
+
+149
+00:15:55,280 --> 00:15:57,680
+Zudem steht es dir überhaupt nicht.
+De toute façon, il ne te va pas du tout.
+
+150
+00:15:59,880 --> 00:16:02,360
+Woher hast du das Geld dafür?
+Tu l'as acheté avec quel argent?
+
+151
+00:16:03,760 --> 00:16:06,480
+Ich habe es geschenkt gekriegt.
+On me l'a offert.
+
+152
+00:16:09,360 --> 00:16:11,600
+Los, zieh es aus.
+Allez, enlève-le.
+
+153
+00:16:12,760 --> 00:16:14,320
+Sofort!
+Tout de suite!
+
+154
+00:16:15,160 --> 00:16:17,280
+Los, mach schon!
+Allez, bouge-toi!
+
+155
+00:16:20,320 --> 00:16:22,080
+Du bist unerträglich.
+Je te supporte plus.
+
+156
+00:16:25,280 --> 00:16:27,000
+Zeig her.
+Fais voir.
+
+157
+00:16:29,720 --> 00:16:31,840
+Mach die Augen zu.
+Ferme les yeux.
+
+158
+00:16:35,800 --> 00:16:37,600
+Mach sie zu.
+Ferme-les.
+
+159
+00:16:41,920 --> 00:16:41,920
+** scene-change **
+
+160
+00:17:21,080 --> 00:17:23,160
+Ich verstehe nicht, was du hier machst.
+Je comprends pas ce que tu fais ici.
+
+161
+00:17:23,320 --> 00:17:26,080
+Du stellst dich immer schlafend.
+T'en as pas marre de faire semblant de dormir?
+
+162
+00:17:27,880 --> 00:17:29,800
+Geh zu einem Casting.
+Tu devrais aller à un casting.
+
+163
+00:17:30,000 --> 00:17:32,480
+Dann würdest du wenigstens etwas tun.
+Au moins, tu ferais quelque chose!
+
+164
+00:17:56,160 --> 00:17:58,920
+- Was schaust du? - Du spinnst wohl.
+- Qu'est-ce que tu regardes? - T'as pété les plombs...
+
+165
+00:18:01,280 --> 00:18:03,520
+Du musst die Küche putzen.
+Tu vas nettoyer la cuisine.
+
+166
+00:18:03,680 --> 00:18:06,040
+Das soll die andere Kuh machen!
+Que l'autre tarée le fasse!
+
+167
+00:18:06,041 --> 00:18:06,040
+** scene-change **
+
+168
+00:19:56,400 --> 00:19:56,400
+** scene-change **
+
